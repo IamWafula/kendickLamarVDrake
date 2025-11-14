@@ -1,0 +1,255 @@
+Graph statistics
+=================
+
+Total nodes: 1560
+Total edges: 29042
+Average degree: 37.23
+Isolated nodes (degree = 0): 161
+Nodes with degree = 1: 77
+
+Top 3 most connected nodes (by degree):
+  - id: drake - Under Ground Kings | title: Under Ground Kings | artist: drake | degree: 200 | weighted_degree: 198.802
+  - id: drake - Seeing Green | title: Seeing Green | artist: drake | degree: 193 | weighted_degree: 191.747
+  - id: drake - Uptown | title: Uptown | artist: drake | degree: 180 | weighted_degree: 178.889
+
+Nodes with degree = 0 (isolated):
+  - id: drake - 10 Bands | title: 10 Bands | artist: drake
+  - id: drake - A.D.I.D.A.S. | title: A.D.I.D.A.S. | artist: drake
+  - id: drake - ARIPI RELOADED (Bonus Track) | title: ARIPI RELOADED (Bonus Track) | artist: drake
+  - id: drake - BRIAN STEEL | title: BRIAN STEEL | artist: drake
+  - id: drake - Bria’s Interlude | title: Bria’s Interlude | artist: drake
+  - id: drake - Can I | title: Can I | artist: drake
+  - id: drake - Cece’s Interlude | title: Cece’s Interlude | artist: drake
+  - id: drake - Celebration | title: Celebration | artist: drake
+  - id: drake - Currents | title: Currents | artist: drake
+  - id: drake - DIE TRYING | title: DIE TRYING | artist: drake
+  - id: drake - DOG HOUSE | title: DOG HOUSE | artist: drake
+  - id: drake - Days in the West | title: Days in the West | artist: drake
+  - id: drake - Diamonds Dancing | title: Diamonds Dancing | artist: drake
+  - id: drake - Disappointed* | title: Disappointed* | artist: drake
+  - id: drake - Doing It Wrong | title: Doing It Wrong | artist: drake
+  - id: drake - Every Girl (Single Version) | title: Every Girl (Single Version) | artist: drake
+  - id: drake - Facts (Charlie Heat Version) | title: Facts (Charlie Heat Version) | artist: drake
+  - id: drake - Faded | title: Faded | artist: drake
+  - id: drake - Falling Back | title: Falling Back | artist: drake
+  - id: drake - Find Your Love | title: Find Your Love | artist: drake
+  - id: drake - Fireworks | title: Fireworks | artist: drake
+  - id: drake - GIMME A HUG | title: GIMME A HUG | artist: drake
+  - id: drake - GODSPLAN | title: GODSPLAN | artist: drake
+  - id: drake - God’s Plan | title: God’s Plan | artist: drake
+  - id: drake - I Get Lonely | title: I Get Lonely | artist: drake
+  - id: drake - Ice Melts | title: Ice Melts | artist: drake
+  - id: drake - Karaoke | title: Karaoke | artist: drake
+  - id: drake - Loving You No More | title: Loving You No More | artist: drake
+  - id: drake - Massive | title: Massive | artist: drake
+  - id: drake - Messages From You | title: Messages From You | artist: drake
+  - id: drake - Missin’ You (Freestyle) | title: Missin’ You (Freestyle) | artist: drake
+  - id: drake - Mob Ties | title: Mob Ties | artist: drake
+  - id: drake - Moment 4 Life | title: Moment 4 Life | artist: drake
+  - id: drake - My Love | title: My Love | artist: drake
+  - id: drake - NOKIA | title: NOKIA | artist: drake
+  - id: drake - Naive | title: Naive | artist: drake
+  - id: drake - OVO Sound Radio Episode 15 Tracklist | title: OVO Sound Radio Episode 15 Tracklist | artist: drake
+  - id: drake - OVO Sound Radio Episode 24 Tracklist | title: OVO Sound Radio Episode 24 Tracklist | artist: drake
+  - id: drake - OVO Sound Radio Episode 41 Tracklist | title: OVO Sound Radio Episode 41 Tracklist | artist: drake
+  - id: drake - OVO Sound Radio Episode 46 Tracklist | title: OVO Sound Radio Episode 46 Tracklist | artist: drake
+  - id: drake - OVO Sound Radio Episode 47 Tracklist | title: OVO Sound Radio Episode 47 Tracklist | artist: drake
+  - id: drake - OVO Sound Radio Episode 58 Tracklist | title: OVO Sound Radio Episode 58 Tracklist | artist: drake
+  - id: drake - OVO Sound Radio Episode 60 Tracklist | title: OVO Sound Radio Episode 60 Tracklist | artist: drake
+  - id: drake - OVO Sound Radio Episode 61 Tracklist | title: OVO Sound Radio Episode 61 Tracklist | artist: drake
+  - id: drake - OVO Sound Radio Episode 64 Tracklist | title: OVO Sound Radio Episode 64 Tracklist | artist: drake
+  - id: drake - Ojuelegba (Remix) | title: Ojuelegba (Remix) | artist: drake
+  - id: drake - Outro | title: Outro | artist: drake
+  - id: drake - Paris Morton Music | title: Paris Morton Music | artist: drake
+  - id: drake - Recognize | title: Recognize | artist: drake
+  - id: drake - Scorpion Intro | title: Scorpion Intro | artist: drake
+  - id: drake - Sh!t (Remix) | title: Sh!t (Remix) | artist: drake
+  - id: drake - Shopping Spree | title: Shopping Spree | artist: drake
+  - id: drake - So Good | title: So Good | artist: drake
+  - id: drake - Summers Over Interlude | title: Summers Over Interlude | artist: drake
+  - id: drake - Take Care (BBC Live at Maida Vale) | title: Take Care (BBC Live at Maida Vale) | artist: drake
+  - id: drake - Talk To Me | title: Talk To Me | artist: drake
+  - id: drake - Thrill Is Gone | title: Thrill Is Gone | artist: drake
+  - id: drake - Too Good | title: Too Good | artist: drake
+  - id: drake - Tryna Fuck | title: Tryna Fuck | artist: drake
+  - id: drake - Un-Thinkable - I’m Ready | title: Un-Thinkable - I’m Ready | artist: drake
+  - id: drake - Wednesday Night Interlude | title: Wednesday Night Interlude | artist: drake
+  - id: drake - What’s My Name | title: What’s My Name | artist: drake
+  - id: drake - What’s My Name? | title: What’s My Name? | artist: drake
+  - id: drake - Where Were You | title: Where Were You | artist: drake
+  - id: drake - Where Were You (Original) | title: Where Were You (Original) | artist: drake
+  - id: drake - Yesterday | title: Yesterday | artist: drake
+  - id: drake - Yves Slatt Laurent | title: Yves Slatt Laurent | artist: drake
+  - id: drake - ​u. | title: ​u. | artist: drake
+  - id: kendrick - 30 For 30 (Demo) | title: 30 For 30 (Demo) | artist: kendrick
+  - id: kendrick - A New Day | title: A New Day | artist: kendrick
+  - id: kendrick - All The Stars | title: All The Stars | artist: kendrick
+  - id: kendrick - All the Stars (Apple Music Live) | title: All the Stars (Apple Music Live) | artist: kendrick
+  - id: kendrick - BET BackRoom Freestyle | title: BET BackRoom Freestyle | artist: kendrick
+  - id: kendrick - BITCH | title: BITCH | artist: kendrick
+  - id: kendrick - Backseat Freestyle | title: Backseat Freestyle | artist: kendrick
+  - id: kendrick - Bang Bang | title: Bang Bang | artist: kendrick
+  - id: kendrick - Biggie | title: Biggie | artist: kendrick
+  - id: kendrick - Bitch, Don’t Kill My Vibe | title: Bitch, Don’t Kill My Vibe | artist: kendrick
+  - id: kendrick - Bitch, Don’t Kill My Vibe (International Remix) | title: Bitch, Don’t Kill My Vibe (International Remix) | artist: kendrick
+  - id: kendrick - Bitch, Don’t Kill My Vibe (Original Version) | title: Bitch, Don’t Kill My Vibe (Original Version) | artist: kendrick
+  - id: kendrick - Bitch, Don’t Kill My Vibe (Remix) | title: Bitch, Don’t Kill My Vibe (Remix) | artist: kendrick
+  - id: kendrick - Bitch, Don’t Kill My Vibe - Edited Version | title: Bitch, Don’t Kill My Vibe - Edited Version | artist: kendrick
+  - id: kendrick - Bless Up | title: Bless Up | artist: kendrick
+  - id: kendrick - Broke My Heart | title: Broke My Heart | artist: kendrick
+  - id: kendrick - Classic Man (Remix) | title: Classic Man (Remix) | artist: kendrick
+  - id: kendrick - Count Me Out | title: Count Me Out | artist: kendrick
+  - id: kendrick - Crown | title: Crown | artist: kendrick
+  - id: kendrick - Cryin Wolf | title: Cryin Wolf | artist: kendrick
+  - id: kendrick - DNA (NBA Finals Edition, On-air montage snippet) | title: DNA (NBA Finals Edition, On-air montage snippet) | artist: kendrick
+  - id: kendrick - Death Around the Corner | title: Death Around the Corner | artist: kendrick
+  - id: kendrick - Don’t Kill My Vibe | title: Don’t Kill My Vibe | artist: kendrick
+  - id: kendrick - Don’t Wanna Know (Extended Version) | title: Don’t Wanna Know (Extended Version) | artist: kendrick
+  - id: kendrick - Don’t Wanna Know (Ryan Riback Remix) | title: Don’t Wanna Know (Ryan Riback Remix) | artist: kendrick
+  - id: kendrick - FEAR. | title: FEAR. | artist: kendrick
+  - id: kendrick - FEEL. | title: FEEL. | artist: kendrick
+  - id: kendrick - Father Stretch My Hands (Original V1) | title: Father Stretch My Hands (Original V1) | artist: kendrick
+  - id: kendrick - Fkin’ Problems [Mixed] | title: Fkin’ Problems [Mixed] | artist: kendrick
+  - id: kendrick - GOD. | title: GOD. | artist: kendrick
+  - id: kendrick - Gang Activities | title: Gang Activities | artist: kendrick
+  - id: kendrick - Gang Gang | title: Gang Gang | artist: kendrick
+  - id: kendrick - Genocide | title: Genocide | artist: kendrick
+  - id: kendrick - Higher Ground Freestyle | title: Higher Ground Freestyle | artist: kendrick
+  - id: kendrick - His Pain | title: His Pain | artist: kendrick
+  - id: kendrick - His Pain II | title: His Pain II | artist: kendrick
+  - id: kendrick - I Am | title: I Am | artist: kendrick
+  - id: kendrick - I Feel Something | title: I Feel Something | artist: kendrick
+  - id: kendrick - ICE SKATE | title: ICE SKATE | artist: kendrick
+  - id: kendrick - Ignant | title: Ignant | artist: kendrick
+  - id: kendrick - Jesus saves | title: Jesus saves | artist: kendrick
+  - id: kendrick - LOVE. (Remix) | title: LOVE. (Remix) | artist: kendrick
+  - id: kendrick - Lack of Better Words | title: Lack of Better Words | artist: kendrick
+  - id: kendrick - Lies | title: Lies | artist: kendrick
+  - id: kendrick - Make Me Happy | title: Make Me Happy | artist: kendrick
+  - id: kendrick - Mirrors (Thuggin) | title: Mirrors (Thuggin) | artist: kendrick
+  - id: kendrick - Mother (Mother I Sober Demo) | title: Mother (Mother I Sober Demo) | artist: kendrick
+  - id: kendrick - Murder | title: Murder | artist: kendrick
+  - id: kendrick - NILE | title: NILE | artist: kendrick
+  - id: kendrick - Next To Me (Kendrick Lamar Remix) | title: Next To Me (Kendrick Lamar Remix) | artist: kendrick
+  - id: kendrick - Night of the Living Junkies | title: Night of the Living Junkies | artist: kendrick
+  - id: kendrick - Nose (Real One) | title: Nose (Real One) | artist: kendrick
+  - id: kendrick - Not For Sale | title: Not For Sale | artist: kendrick
+  - id: kendrick - Now or Never | title: Now or Never | artist: kendrick
+  - id: kendrick - ORANGE SODA (Mixed) | title: ORANGE SODA (Mixed) | artist: kendrick
+  - id: kendrick - Opinions | title: Opinions | artist: kendrick
+  - id: kendrick - Opposites Attract (Tomorrow W/O Her) | title: Opposites Attract (Tomorrow W/O Her) | artist: kendrick
+  - id: kendrick - Organized Madness | title: Organized Madness | artist: kendrick
+  - id: kendrick - Overthink (United In Grief Original Intro) | title: Overthink (United In Grief Original Intro) | artist: kendrick
+  - id: kendrick - PARTYNAUSEOUS (Demo 2) | title: PARTYNAUSEOUS (Demo 2) | artist: kendrick
+  - id: kendrick - Peekaboo (Kendrick) | title: Peekaboo (Kendrick) | artist: kendrick
+  - id: kendrick - Peter Pan* | title: Peter Pan* | artist: kendrick
+  - id: kendrick - Please Don’t Kill My Vibe | title: Please Don’t Kill My Vibe | artist: kendrick
+  - id: kendrick - Pray for Me | title: Pray for Me | artist: kendrick
+  - id: kendrick - Really Be (Smokin N Drinkin) | title: Really Be (Smokin N Drinkin) | artist: kendrick
+  - id: kendrick - Regulate (Freestyle) | title: Regulate (Freestyle) | artist: kendrick
+  - id: kendrick - Sacrilegious | title: Sacrilegious | artist: kendrick
+  - id: kendrick - Shock the World | title: Shock the World | artist: kendrick
+  - id: kendrick - Somebody | title: Somebody | artist: kendrick
+  - id: kendrick - Still Here | title: Still Here | artist: kendrick
+  - id: kendrick - Swimming Pools (Initial Demo) | title: Swimming Pools (Initial Demo) | artist: kendrick
+  - id: kendrick - The Greatest (Acoustic Version) | title: The Greatest (Acoustic Version) | artist: kendrick
+  - id: kendrick - The Now (NILE Original) | title: The Now (NILE Original) | artist: kendrick
+  - id: kendrick - Thuggin’ | title: Thuggin’ | artist: kendrick
+  - id: kendrick - Thuggin’ (Remix) | title: Thuggin’ (Remix) | artist: kendrick
+  - id: kendrick - Up Against The Wall | title: Up Against The Wall | artist: kendrick
+  - id: kendrick - Victim | title: Victim | artist: kendrick
+  - id: kendrick - WISH. | title: WISH. | artist: kendrick
+  - id: kendrick - Waitin | title: Waitin | artist: kendrick
+  - id: kendrick - War Is My Love | title: War Is My Love | artist: kendrick
+  - id: kendrick - We Cry Together | title: We Cry Together | artist: kendrick
+  - id: kendrick - What Lies Beneath | title: What Lies Beneath | artist: kendrick
+  - id: kendrick - Worked (Dotsplosive) | title: Worked (Dotsplosive) | artist: kendrick
+  - id: kendrick - You Don’t Like | title: You Don’t Like | artist: kendrick
+  - id: kendrick - You Heard Me | title: You Heard Me | artist: kendrick
+  - id: kendrick - durag activity | title: durag activity | artist: kendrick
+  - id: kendrick - issues | title: issues | artist: kendrick
+  - id: kendrick - no sense | title: no sense | artist: kendrick
+  - id: kendrick - peekaboo | title: peekaboo | artist: kendrick
+  - id: kendrick - peekaboo [Mixed] | title: peekaboo [Mixed] | artist: kendrick
+  - id: kendrick - ​i (Alternate Version) | title: ​i (Alternate Version) | artist: kendrick
+  - id: kendrick - ​i (Single Version) | title: ​i (Single Version) | artist: kendrick
+  - id: kendrick - ​untitled 07 | levitate | title: ​untitled 07 | levitate | artist: kendrick
+
+Nodes with degree = 1:
+  - id: drake - 3 On | title: 3 On | artist: drake | weighted_degree: 0.992
+  - id: drake - A Keeper | title: A Keeper | artist: drake | weighted_degree: 0.992
+  - id: drake - Against The Wind (The Remorse Original) | title: Against The Wind (The Remorse Original) | artist: drake | weighted_degree: 0.992
+  - id: drake - All Good | title: All Good | artist: drake | weighted_degree: 0.995
+  - id: drake - All This Love | title: All This Love | artist: drake | weighted_degree: 0.994
+  - id: drake - Blind Faith | title: Blind Faith | artist: drake | weighted_degree: 0.991
+  - id: drake - Crew Love | title: Crew Love | artist: drake | weighted_degree: 0.990
+  - id: drake - Crew Love (Demo) | title: Crew Love (Demo) | artist: drake | weighted_degree: 0.996
+  - id: drake - Don’t Matter to Me | title: Don’t Matter to Me | artist: drake | weighted_degree: 0.993
+  - id: drake - Don’t You Have a Man | title: Don’t You Have a Man | artist: drake | weighted_degree: 0.996
+  - id: drake - Flight’s Booked | title: Flight’s Booked | artist: drake | weighted_degree: 0.994
+  - id: drake - Friends With Money | title: Friends With Money | artist: drake | weighted_degree: 0.992
+  - id: drake - Fuckin’ Problems (Freestyle) | title: Fuckin’ Problems (Freestyle) | artist: drake | weighted_degree: 0.996
+  - id: drake - How Bout Now (Remix) | title: How Bout Now (Remix) | artist: drake | weighted_degree: 0.993
+  - id: drake - I Could Never | title: I Could Never | artist: drake | weighted_degree: 0.991
+  - id: drake - I’m Goin In | title: I’m Goin In | artist: drake | weighted_degree: 0.992
+  - id: drake - I’m The Problem (Still A Good Man) | title: I’m The Problem (Still A Good Man) | artist: drake | weighted_degree: 0.993
+  - id: drake - Jumbotron Shit Poppin | title: Jumbotron Shit Poppin | artist: drake | weighted_degree: 0.996
+  - id: drake - London Tour Freestyle | title: London Tour Freestyle | artist: drake | weighted_degree: 0.994
+  - id: drake - MOTH BALLS | title: MOTH BALLS | artist: drake | weighted_degree: 0.993
+  - id: drake - Madiba Riddim | title: Madiba Riddim | artist: drake | weighted_degree: 0.996
+  - id: drake - New Shit | title: New Shit | artist: drake | weighted_degree: 0.994
+  - id: drake - OVO Sound Radio Episode 1 Tracklist | title: OVO Sound Radio Episode 1 Tracklist | artist: drake | weighted_degree: 0.991
+  - id: drake - OVO Sound Radio Episode 13 Tracklist | title: OVO Sound Radio Episode 13 Tracklist | artist: drake | weighted_degree: 0.991
+  - id: drake - OVO Sound Radio Episode 18 Tracklist | title: OVO Sound Radio Episode 18 Tracklist | artist: drake | weighted_degree: 0.991
+  - id: drake - OVO Sound Radio Episode 22 Tracklist | title: OVO Sound Radio Episode 22 Tracklist | artist: drake | weighted_degree: 0.993
+  - id: drake - OVO Sound Radio Episode 25 Tracklist | title: OVO Sound Radio Episode 25 Tracklist | artist: drake | weighted_degree: 0.993
+  - id: drake - OVO Sound Radio Episode 29 Tracklist | title: OVO Sound Radio Episode 29 Tracklist | artist: drake | weighted_degree: 0.990
+  - id: drake - OVO Sound Radio Episode 40 Tracklist | title: OVO Sound Radio Episode 40 Tracklist | artist: drake | weighted_degree: 0.991
+  - id: drake - Overdrive | title: Overdrive | artist: drake | weighted_degree: 0.990
+  - id: drake - Ratchet Happy Birthday | title: Ratchet Happy Birthday | artist: drake | weighted_degree: 0.995
+  - id: drake - SOMEBODY LOVES ME PT. 2 | title: SOMEBODY LOVES ME PT. 2 | artist: drake | weighted_degree: 0.993
+  - id: drake - Sho Me Love | title: Sho Me Love | artist: drake | weighted_degree: 0.996
+  - id: drake - Summer Games | title: Summer Games | artist: drake | weighted_degree: 0.990
+  - id: drake - Things I Forgot To Do | title: Things I Forgot To Do | artist: drake | weighted_degree: 0.993
+  - id: drake - Time Flies | title: Time Flies | artist: drake | weighted_degree: 0.991
+  - id: drake - Worst Behavior | title: Worst Behavior | artist: drake | weighted_degree: 0.990
+  - id: kendrick - Alright | title: Alright | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - Alright (Music Video) | title: Alright (Music Video) | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - Another Nigga  (To Pimp a Butterfly) | title: Another Nigga  (To Pimp a Butterfly) | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - Family Ties (Grand National Tour) | title: Family Ties (Grand National Tour) | artist: kendrick | weighted_degree: 0.990
+  - id: kendrick - For Free? (Interlude) | title: For Free? (Interlude) | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - GQ Man of The Year 2013 Freestyle | title: GQ Man of The Year 2013 Freestyle | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - Handsome | title: Handsome | artist: kendrick | weighted_degree: 0.990
+  - id: kendrick - Hell Yeah | title: Hell Yeah | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - Hooligan | title: Hooligan | artist: kendrick | weighted_degree: 0.992
+  - id: kendrick - Hyphy | title: Hyphy | artist: kendrick | weighted_degree: 0.994
+  - id: kendrick - I Know | title: I Know | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - I Love Myself | title: I Love Myself | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - I Remember | title: I Remember | artist: kendrick | weighted_degree: 0.992
+  - id: kendrick - Jesus Take the Wheel | title: Jesus Take the Wheel | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - Killa Cali | title: Killa Cali | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - MOJO JOJO | title: MOJO JOJO | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - Mirror | title: Mirror | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - Never Catch Me | title: Never Catch Me | artist: kendrick | weighted_degree: 0.995
+  - id: kendrick - Next To Me (Remix) | title: Next To Me (Remix) | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - Not Like Us (Remix) [Mixed] | title: Not Like Us (Remix) [Mixed] | artist: kendrick | weighted_degree: 0.990
+  - id: kendrick - ORANGE SODA | title: ORANGE SODA | artist: kendrick | weighted_degree: 0.992
+  - id: kendrick - PARTYNAUSEOUS (Demo) | title: PARTYNAUSEOUS (Demo) | artist: kendrick | weighted_degree: 0.990
+  - id: kendrick - Radioactive (Remix) | title: Radioactive (Remix) | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - Rich (Interlude) | title: Rich (Interlude) | artist: kendrick | weighted_degree: 0.996
+  - id: kendrick - See No Evil | title: See No Evil | artist: kendrick | weighted_degree: 0.992
+  - id: kendrick - She Needs Me | title: She Needs Me | artist: kendrick | weighted_degree: 0.992
+  - id: kendrick - Showin’ Love | title: Showin’ Love | artist: kendrick | weighted_degree: 0.994
+  - id: kendrick - Sing That Shit (20syl Juicy Remix) | title: Sing That Shit (20syl Juicy Remix) | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - So What (Original) | title: So What (Original) | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - Sway in the Morning (Freestyle) Part 2 | title: Sway in the Morning (Freestyle) Part 2 | artist: kendrick | weighted_degree: 0.990
+  - id: kendrick - The Classic | title: The Classic | artist: kendrick | weighted_degree: 0.994
+  - id: kendrick - The Look Of Lust | title: The Look Of Lust | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - The World is a Ghetto | title: The World is a Ghetto | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - Where I’m From | title: Where I’m From | artist: kendrick | weighted_degree: 0.992
+  - id: kendrick - Whose House | title: Whose House | artist: kendrick | weighted_degree: 0.993
+  - id: kendrick - Yah / Element (Medley) | title: Yah / Element (Medley) | artist: kendrick | weighted_degree: 0.990
+  - id: kendrick - i | title: i | artist: kendrick | weighted_degree: 0.991
+  - id: kendrick - meet the grahams (OJC Remix) [Mixed] | title: meet the grahams (OJC Remix) [Mixed] | artist: kendrick | weighted_degree: 0.994
+  - id: kendrick - untitled 01 | 08.19.2014. | title: untitled 01 | 08.19.2014. | artist: kendrick | weighted_degree: 0.996
+  - id: kendrick - ​good kid, m.A.A.d city Storyline Breakdown | title: ​good kid, m.A.A.d city Storyline Breakdown | artist: kendrick | weighted_degree: 0.995
